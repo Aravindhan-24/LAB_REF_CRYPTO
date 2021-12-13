@@ -1,16 +1,17 @@
-	CRYPTOGRAPHY AND NETWORK SECURITY LAB REFERENCE				
+			CRYPTOGRAPHY AND NETWORK SECURITY LAB REFERENCE				
 			           CYCLE III
 DIGITAL SIGNATURE STANDARD
 https://www.geeksforgeeks.org/java-implementation-of-digital-signatures-in-cryptography/
 ------------------------------------------------XXXXX------------------------------------------------
 			          CYCLE II
-DES ALGORITHM (TODO)
-https://www.javatpoint.com/java-code-for-des#:~:text=DES%20stands%20for%20Data%20Encryption,keys%20to%20encrypt%20the%20data.
+DES ALGORITHM 
+https://www.geeksforgeeks.org/data-encryption-standard-des-set-1/
 
-AES ALGORITHM (TODO)
-https://www.javatpoint.com/aes-256-encryption-in-java 
+AES ALGORITHM 
+https://stackoverflow.com/questions/10759392/java-aes-encryption-and-decryption?rq=1 
 
-RSA ALGORITHM USING HTML AND JS (TODO)
+RSA ALGORITHM USING HTML AND JS 
+https://www.codeproject.com/Articles/4959/Encryption-RSA-implemented-through-Java-Script-to
 
 Diffe hellman key
 https://www.geeksforgeeks.org/implementation-diffie-hellman-algorithm/
@@ -19,8 +20,8 @@ SHA-I for creating a message digest
 https://www.geeksforgeeks.org/sha-1-hash-in-java/
 ------------------------------------------------XXXXX------------------------------------------------
 			           CYCLE-I
-PLAYFAIR CIPHER (TODO)
-https://www.geeksforgeeks.org/java-program-to-implement-playfair-cipher-algorithm/ 
+PLAYFAIR CIPHER 
+https://www.geeksforgeeks.org/java-program-to-enode-a-message-using-playfair-cipher/ 
 
 CAESAR CIPHER
 https://www.geeksforgeeks.org/caesar-cipher-in-cryptography/
