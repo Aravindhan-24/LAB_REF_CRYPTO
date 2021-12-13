@@ -1,0 +1,33 @@
+	CRYPTOGRAPHY AND NETWORK SECURITY LAB REFERENCE				
+			           CYCLE III
+DIGITAL SIGNATURE STANDARD
+https://www.geeksforgeeks.org/java-implementation-of-digital-signatures-in-cryptography/
+------------------------------------------------XXXXX------------------------------------------------
+			          CYCLE II
+DES ALGORITHM (TODO)
+https://www.javatpoint.com/java-code-for-des#:~:text=DES%20stands%20for%20Data%20Encryption,keys%20to%20encrypt%20the%20data.
+
+AES ALGORITHM (TODO)
+https://www.javatpoint.com/aes-256-encryption-in-java 
+
+RSA ALGORITHM USING HTML AND JS (TODO)
+
+Diffe hellman key
+https://www.geeksforgeeks.org/implementation-diffie-hellman-algorithm/
+
+SHA-I for creating a message digest
+https://www.geeksforgeeks.org/sha-1-hash-in-java/
+------------------------------------------------XXXXX------------------------------------------------
+			           CYCLE-I
+PLAYFAIR CIPHER (TODO)
+https://www.geeksforgeeks.org/java-program-to-implement-playfair-cipher-algorithm/ 
+
+CAESAR CIPHER
+https://www.geeksforgeeks.org/caesar-cipher-in-cryptography/
+
+HILL CIPHER
+https://www.geeksforgeeks.org/hill-cipher/
+
+VIGENERE CIPHER
+https://www.geeksforgeeks.org/vigenere-cipher/
+------------------------------------------------XXXXX------------------------------------------------
